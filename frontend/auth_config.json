@@ -1,5 +1,5 @@
 {
-  "domain": "avazquezcendron.us.auth0.com",
-  "clientId": "1nIhT3HhJoLesnNIJiXJci6ma52cgS5I",
-  "audience": "https://avazquezcendron.us.auth0.com/api/v2/"
+  "domain": "<< Enter your value here e.g. dev-abc12345.auth0.com >>",
+  "clientId": "<< Enter your value here >>",
+  "audience": "https://auth0-jwt-authorizer"
 }
